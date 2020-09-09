@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# HowsApp
+A whatsapp like messaging app inspired from whatsapp web version | Created using React.js and Material UI.
+
+* this project is still in production.
 
 ## Available Scripts
 
